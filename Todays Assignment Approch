@@ -1,0 +1,4 @@
+we can directly use The EtherScan Api to fetch the Holders of the token ERC-721 or ERC-1155.
+For backend:
+nodeJS
+MongoDB Atlas
